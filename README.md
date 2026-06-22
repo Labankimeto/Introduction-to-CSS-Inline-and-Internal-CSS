@@ -52,4 +52,3 @@ repository-name/
 ├── index.html
 └── README.md
 
-# Introduction-to-CSS-Inline-and-Internal-CSS
